@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/322
     wikipedia: http://en.wikipedia.org/wiki/Ludovico_Ariosto
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46201#Orlando-Furioso-Tomo-I.
 gutenberg_issued: '2014-07-06'
 gutenberg_type: Text
 identifiers:
